@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "welcome_message"
 msgstr "Welcome to our application"
 
