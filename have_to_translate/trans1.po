@@ -1,0 +1,12 @@
+# Ceci est un fichier .po pour traductions
+# Langue : Français
+# Projet : Exemple de projet
+
+msgid "welcome_message"
+msgstr "Welcome to our application"
+
+msgid "logout"
+msgstr "Logout"
+
+msgid "error_message"
+msgstr "An error occurred"
