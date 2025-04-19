@@ -1,6 +1,4 @@
-# Ceci est un fichier .po pour traductions
-# Langue : Français
-# Projet : Exemple de projet
+# Langue : en
 
 msgid "welcome_message"
 msgstr "Welcome to our application"
