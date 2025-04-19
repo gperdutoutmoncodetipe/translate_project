@@ -1,0 +1,8 @@
+msgid "welcome_message"
+msgstr ""
+
+msgid "logout"
+msgstr ""
+
+msgid "error_message"
+msgstr ""
