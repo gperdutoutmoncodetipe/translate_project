@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "welcome_message"
-msgstr "" 
+msgstr "aa" 
 
 msgid "logout"
-msgstr ""
+msgstr "bb"
 
 msgid "error_message"
-msgstr ""
+msgstr "cc"
