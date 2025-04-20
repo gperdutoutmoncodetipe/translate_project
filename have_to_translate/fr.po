@@ -3,11 +3,11 @@ msgstr ""
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "Welcome to our application"
+msgid "welcome_message"
 msgstr "" 
 
-msgid "Logout"
+msgid "logout"
 msgstr ""
 
-msgid "An error occurred"
+msgid "error_message"
 msgstr ""
